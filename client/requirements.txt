@@ -13,7 +13,7 @@ Cython==0.29.7
 decorator==4.4.1
 fabric==2.4.0
 Flask==1.1.1
-Flask-Cors==3.0.8
+Flask-Cors==3.0.9
 idna==2.8
 invoke==1.2.0
 ipython==7.12.0
